@@ -16,6 +16,9 @@ This ReadMe must be updated if any installation requirements or prequisities are
 - Set up `Virtual Env` locally or through `Google Collab`
 - `pip install -r requirements.txt` for python package installation
 - Move DataSet Directory to be `Source_Code/DataSet` folder for consistency
+	- Training Data_Set to be : ``Source_Code/DataSet/Training_DataSet``
+	- Testing Data_Set to be : ``Source_Code/DataSet/Testing_DataSet``
+	- Please ignore .txt files in each directory : made only to commit both folders
 
 ## Before Pushing Code
 - Dont forget to update ``requirements.txt`` with new package dependencies using `pip freeze > requirements.txt`
