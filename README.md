@@ -6,8 +6,9 @@ This ReadMe must be updated if any installation requirements or prequisities are
 
 ## DataSet Links
 - German Traffic Sign Recognition Benchmark
-	- Training Data Set with annotations : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip`
-	- Testing Data Set with ground truth annotations : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_GT.zip`
+	- Training Data Set images with annotations : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip`
+	- Testing Data Set's ground truth annotations : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_GT.zip`
+	- Testing Data Set images : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_Images.zip`
 
 ## Installation Requirements
 - Clone Project Repo through ssh link using credentials
@@ -19,7 +20,7 @@ This ReadMe must be updated if any installation requirements or prequisities are
 ## Before Pushing Code
 - Dont forget to update ``requirements.txt`` with new package dependencies using `pip freeze > requirements.txt`
 - Create a ``new Branch`` with task description
-- Open a PR after commit
+- Open a `PR` after commit
 
 ## TODO Tasks
 - Feature Extraction
