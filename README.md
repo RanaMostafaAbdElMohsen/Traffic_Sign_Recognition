@@ -19,7 +19,7 @@ This ReadMe must be updated if any installation requirements or prequisities are
 	- Training Data_Set to be : ``Source_Code/DataSet/Training_DataSet``
 	- Testing Data_Set to be : ``Source_Code/DataSet/Testing_DataSet``
 	- Please ignore .txt files in each directory : made only to commit both folders
-
+	
 ## Before Pushing Code
 - Dont forget to update ``requirements.txt`` with new package dependencies using `pip freeze > requirements.txt`
 - Create a ``new Branch`` with task description
