@@ -29,7 +29,7 @@ nbconvert==5.6.1
 nbformat==4.4.0
 networkx==2.4
 notebook==6.0.2
-numpy==1.17.4
+numpy==1.16.2
 opencv-python==4.1.2.30
 pandas==0.25.3
 pandocfilters==1.4.2
