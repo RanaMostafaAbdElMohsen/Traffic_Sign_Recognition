@@ -44,3 +44,5 @@ This ReadMe must be updated if any installation requirements or prequisities are
 - More specific categories
 - Trying other models
 
+## Presentation Link
+Presentation Link : `https://docs.google.com/presentation/d/1O_aPwO1tJeqlp8H9RqbSJ8LoRy_o92LyCpXuD8ssBBo/edit?usp=sharing`
