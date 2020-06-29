@@ -1,4 +1,4 @@
-# Traffic_Sign_Recognition_Detection
+# Traffic_Sign_Recognition
 This repository is for a research project at Cairo University, computer engineering department.
 
 ## Note 
