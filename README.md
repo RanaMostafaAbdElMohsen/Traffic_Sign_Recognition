@@ -10,6 +10,8 @@ This ReadMe must be updated if any installation requirements or prequisities are
 	- Testing Data Set's ground truth annotations : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_GT.zip`
 	- Testing Data Set images : `https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Test_Images.zip`
 
+- Belgium Traffic Sign Recognition `https://btsd.ethz.ch/shareddata/`
+
 ## Installation Requirements
 - Clone Project Repo through ssh link using credentials
 - Git pull to get most `up-to-date master`
