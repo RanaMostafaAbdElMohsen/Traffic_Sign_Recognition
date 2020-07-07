@@ -19,6 +19,10 @@ This ReadMe must be updated if any installation requirements or prequisities are
 	- Training Data_Set to be : ``Source_Code/DataSet/Training_DataSet``
 	- Testing Data_Set to be : ``Source_Code/DataSet/Testing_DataSet``
 	- Please ignore .txt files in each directory : made only to commit both folders
+- For `Belgium` DataSet Move DataSet to be in `Source_Code/DataSet'
+	- Belgium Training Data_Set to be : ``Source_Code/DataSet/BelgiumTSC_Training/Training``
+	- Belgium Testing Data_Set to be : ``Source_Code/DataSet/BelgiumTSC_Testing/Testing``
+	- Please remove readMe.txt files inside ``Training`` and ``Testing`` Folders or else loading will ``fail``
 - Move pkl files to `Source_Code/Model/Processed_DataSet` folder for consistency
 	- `TrainDataSet.pkl` and `TestDataSet.pkl` files
 	
