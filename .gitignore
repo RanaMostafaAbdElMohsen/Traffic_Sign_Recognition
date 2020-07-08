@@ -15,4 +15,6 @@ Source_Code/DataSet/Testing_DataSet/Final_Test
 Source_Code/DataSet/Testing_DataSet/Final_Test/*
 Source_Code/Data_Preparation/__pycache__
 Source_Code/Data_Preparation/__pycache__/*
+Source_Code/DataSet/BelgiumTSC_Testing/*
+Source_Code/DataSet/BelgiumTSC_Training/*
 
