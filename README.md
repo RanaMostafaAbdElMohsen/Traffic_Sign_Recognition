@@ -33,14 +33,5 @@ This ReadMe must be updated if any installation requirements or prequisities are
 - Create a ``new Branch`` with task description
 - Open a `PR` after commit
 
-## Future Work 
-- Trying different data set other German Traffic Sign Recognition Benchmark such as:
-	- German Traffic Sign Detection Benchmark
-	- DFG traffic sign dataset
-- Hyper-tuning + Optimising parameters
-- Adding Attention Layer
-- Using ResNet architecture
-- Optimization pre-processing images
-
 ## Presentation Link
 Presentation Link : `https://docs.google.com/presentation/d/1O_aPwO1tJeqlp8H9RqbSJ8LoRy_o92LyCpXuD8ssBBo/edit?usp=sharing`
