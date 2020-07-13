@@ -12,6 +12,9 @@ This ReadMe must be updated if any installation requirements or prequisities are
 
 - Belgium Traffic Sign Recognition `https://btsd.ethz.ch/shareddata/`
 
+## Access Ready DataSet .pkl files
+You can access German and Belgium train and test  .pkl files for winning models through this [link](https://drive.google.com/drive/folders/1VHbbouHStOiJt1rRjB8B8fFR0_83nKJX?usp=sharing)
+
 ## Installation Requirements
 - Clone Project Repo through ssh link using credentials
 - Git pull to get most `up-to-date master`
@@ -21,17 +24,12 @@ This ReadMe must be updated if any installation requirements or prequisities are
 	- Training Data_Set to be : ``Source_Code/DataSet/Training_DataSet``
 	- Testing Data_Set to be : ``Source_Code/DataSet/Testing_DataSet``
 	- Please ignore .txt files in each directory : made only to commit both folders
-- For `Belgium` DataSet Move DataSet to be in `Source_Code/DataSet'
+- For `Belgium` DataSet Move DataSet to be in `Source_Code/DataSet`
 	- Belgium Training Data_Set to be : ``Source_Code/DataSet/BelgiumTSC_Training/Training``
 	- Belgium Testing Data_Set to be : ``Source_Code/DataSet/BelgiumTSC_Testing/Testing``
 	- Please remove readMe.txt files inside ``Training`` and ``Testing`` Folders or else loading will ``fail``
 - Move pkl files to `Source_Code/Model/Processed_DataSet` folder for consistency
 	- `TrainDataSet.pkl` and `TestDataSet.pkl` files
-	
-## Before Pushing Code
-- Dont forget to update ``requirements.txt`` with new package dependencies using `pip freeze > requirements.txt`
-- Create a ``new Branch`` with task description
-- Open a `PR` after commit
 
 ## Presentation Link
 Presentation Link : `https://docs.google.com/presentation/d/1O_aPwO1tJeqlp8H9RqbSJ8LoRy_o92LyCpXuD8ssBBo/edit?usp=sharing`
