@@ -27,11 +27,6 @@ This ReadMe must be updated if any installation requirements or prequisities are
 	- Please remove readMe.txt files inside ``Training`` and ``Testing`` Folders or else loading will ``fail``
 - Move pkl files to `Source_Code/Model/Processed_DataSet` folder for consistency
 	- `TrainDataSet.pkl` and `TestDataSet.pkl` files
-	
-## Before Pushing Code
-- Dont forget to update ``requirements.txt`` with new package dependencies using `pip freeze > requirements.txt`
-- Create a ``new Branch`` with task description
-- Open a `PR` after commit
 
 ## Presentation Link
 Presentation Link : `https://docs.google.com/presentation/d/1O_aPwO1tJeqlp8H9RqbSJ8LoRy_o92LyCpXuD8ssBBo/edit?usp=sharing`
