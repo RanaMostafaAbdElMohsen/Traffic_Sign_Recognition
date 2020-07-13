@@ -12,6 +12,9 @@ This ReadMe must be updated if any installation requirements or prequisities are
 
 - Belgium Traffic Sign Recognition `https://btsd.ethz.ch/shareddata/`
 
+## Access Ready DataSet .pkl files
+You can access German and Belgium train and test  .pkl files for winning models through this [link](https://drive.google.com/drive/folders/1VHbbouHStOiJt1rRjB8B8fFR0_83nKJX?usp=sharing)
+
 ## Installation Requirements
 - Clone Project Repo through ssh link using credentials
 - Git pull to get most `up-to-date master`
