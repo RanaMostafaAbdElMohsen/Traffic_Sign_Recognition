@@ -1,5 +1,9 @@
 Source_Code/.ipynb_checkpoints
 Source_Code/.ipynb_checkpoints/*
+Visualization/.ipynb_checkpoints
+Visualization/.ipynb_checkpoints/*
+Source_Code/__pycache__/
+Source_Code/__pycache__/*
 Source_Code/Pre_Processing/.ipynb_checkpoints
 Source_Code/Pre_Processing/.ipynb_checkpoints/*
 Source_Code/Pre_Processing/__pycache__/
@@ -17,11 +21,4 @@ Source_Code/Data_Preparation/__pycache__
 Source_Code/Data_Preparation/__pycache__/*
 Source_Code/DataSet/BelgiumTSC_Testing/*
 Source_Code/DataSet/BelgiumTSC_Training/*
-Source_Code/MisClassification/.ipynb_checkpoints/
-Source_Code/MisClassification/.ipynb_checkpoints/*
-Source_Code/MisClassification/.ipynb_checkpoints/*
-Source_Code/MisClassification/MisClassification_German_Images/*.ppm
-Source_Code/MisClassification/MisClassification_Belgium_Images/*.ppm
-Source_Code/DataSet/Chinese_DataSet/tsrd-train/*
-Source_Code/DataSet/Chinese_DataSet/TSRD-Test/*
 
