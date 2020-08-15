@@ -1,5 +1,9 @@
 Source_Code/.ipynb_checkpoints
 Source_Code/.ipynb_checkpoints/*
+Visualization/.ipynb_checkpoints
+Visualization/.ipynb_checkpoints/*
+Source_Code/__pycache__/
+Source_Code/__pycache__/*
 Source_Code/Pre_Processing/.ipynb_checkpoints
 Source_Code/Pre_Processing/.ipynb_checkpoints/*
 Source_Code/Pre_Processing/__pycache__/
@@ -8,7 +12,7 @@ Source_Code/Data_Preparation/.ipynb_checkpoints
 Source_Code/Data_Preparation/.ipynb_checkpoints/*
 Source_Code/Model/.ipynb_checkpoints
 Source_Code/Model/.ipynb_checkpoints/*
-Source_Code/Model/Processed_DataSet/*.pkl
+Source_Code/DataSet/Processed_DataSet/*.pkl
 Source_Code/DataSet/Training_DataSet/Final_Training
 Source_Code/DataSet/Training_DataSet/Final_Training/*
 Source_Code/DataSet/Testing_DataSet/Final_Test
@@ -17,4 +21,6 @@ Source_Code/Data_Preparation/__pycache__
 Source_Code/Data_Preparation/__pycache__/*
 Source_Code/DataSet/BelgiumTSC_Testing/*
 Source_Code/DataSet/BelgiumTSC_Training/*
-
+Source_Code/DataSet/Chinese_DataSet/*
+Source_Code/DataSet/Croatian_DataSet/rmastif_train/*
+Source_Code/DataSet/Croatian_DataSet/rmastif_test/*
