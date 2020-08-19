@@ -1,2 +1,1 @@
-The Training and Testing Folders associated with Croatian Dataset
-are added here
+The Training and Testing Folders associated with Croatian Datasetare added here
