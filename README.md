@@ -1,4 +1,4 @@
-# Traffic_Sign_Recognition
+# RIECNN : Real-time Image Enhanced CNN
 This repository is for a research project at Cairo University, computer engineering department.
 
 ## Note 
