@@ -1,5 +1,20 @@
 # RIECNN : Real-time Image Enhanced CNN
 This repository is for a research project at Cairo University, computer engineering department.
+This paper introduces [RIECNN: real-time image enhanced CNN for traffic sign recognition](https://link.springer.com/content/pdf/10.1007/s00521-021-06762-5.pdf) is published in `Neural Computing and Applications Journal, Springer 2022`. 
+
+## Abstract
+Traffic sign recognition plays a crucial role in the development of autonomous cars to reduce the accident rate and promote
+road safety. It has been a necessity to address traffic signs that are affected significantly by the environment as well as poor
+real-time performance for deep-learning state-of-the-art algorithms. In this paper, we introduce Real-Time Image
+Enhanced CNN (RIECNN) for Traffic Sign Recognition. RIECNN is a real-time, novel approach that tackles multiple,
+diverse traffic sign datasets, and out-performs the state-of-the-art architectures in terms of recognition rate and execution
+time. Experiments are conducted using the German Traffic Sign Benchmark (GTSRB), the Belgium Traffic Sign Clas-
+sification (BTSC), and the Croatian Traffic Sign (rMASTIF) benchmark. Experimental results show that our approach has
+achieved the highest recognition rate for all Benchmarks, achieving a recognition accuracy of 99.75% for GTSRB, 99.25%
+for BTSC and 99.55% for rMASTIF. In terms of latency and meeting the real-time constraint, the pre-processing time and
+inference time together do not exceed 1.3 ms per image. Not only have our proposed approach achieved remarkably high
+accuracy with real-time performance, but it also demonstrated robustness against traffic sign recognition challenges such as
+brightness and contrast variations in the environment.
 
 ## Note 
 This ReadMe must be updated if any installation requirements or prequisities are needed
