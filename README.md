@@ -1,4 +1,4 @@
-# RIECNN : Real-time Image Enhanced CNN
+# RIECNN : Real-time Image Enhanced CNN for Traffic Sign Recognition
 This repository is for a research project at Cairo University, computer engineering department.
 This paper introduces [RIECNN: real-time image enhanced CNN for traffic sign recognition](https://link.springer.com/content/pdf/10.1007/s00521-021-06762-5.pdf) is published in `Neural Computing and Applications Journal, Springer 2022`. 
 
